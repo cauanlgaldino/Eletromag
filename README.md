@@ -1,4 +1,4 @@
-# Simulação do Movimento de uma Partícula Carregada em um Campo Magnético Uniforme 🧲 
+# Simulação do Movimento de uma Partícula Carregada em um Campo Magnético Uniforme 
 
 **Trabalho Científico N1 — Físico-Eletromagnetismo | Capítulo 28 (Resnick, Halliday & Walker, 10ª Edição)**  
 Tema: *Força Magnética sobre Cargas em Movimento*
@@ -12,25 +12,19 @@ O projeto ilustra como o **raio da trajetória** depende da **massa**, **velocid
 
 ---
 
-## 🧩 Fundamentação Teórica
+## Fundamentação Teórica
 
 A força magnética que atua sobre uma partícula carregada é dada por:
 
-\[
-\vec{F} = q (\vec{v} \times \vec{B})
-\]
+F⃗  = q · (v⃗  × B⃗ )
 
 Quando a velocidade é perpendicular ao campo magnético, o módulo da força é:
 
-\[
-F = q v B
-\]
+F = q · v · B
 
 Essa força atua como **força centrípeta**, causando um **movimento circular uniforme**, com raio determinado por:
 
-\[
-r = \frac{m v}{|q| B}
-\]
+r = (m · v) / (|q| · B)
 
 ---
 
@@ -55,19 +49,20 @@ O programa calcula automaticamente o **raio da trajetória (r)** e exibe a **tra
 - Aumentar **campo magnético (B)** → diminui o raio  
 - Aumentar **carga (|q|)** → diminui o raio  
 
-Exemplo:
+Exemplo de parâmetros utilizados:
 
-\[
-m = 1,67\times10^{-27} \text{ kg}, \quad v = 10^7 \text{ m/s}, \quad B = 0,096 \text{ T}, \quad |q| = 1,62\times10^{-19} \text{ C}
-\]
+m = 1.67 × 10⁻²⁷  kg
+v = 1.0 × 10⁷  m/s
+B = 0.096  T
+|q| = 1.62 × 10⁻¹⁹  C
 
-\[
-r \approx 1,07 \text{ m}
-\]
+Raio calculado:
+
+r ≈ 1.07  m
 
 ---
 
-## 👥 Equipe
+## Equipe
 
 | **Cauan Galdino** 
 | **Izadora Montenegro** 

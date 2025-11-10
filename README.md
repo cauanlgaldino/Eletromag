@@ -2,6 +2,7 @@
 
 **Trabalho Científico N1 — Físico-Eletromagnetismo | Capítulo 28 (Resnick, Halliday & Walker, 10ª Edição)**  
 Tema: *Força Magnética sobre Cargas em Movimento*
+Professor: Wellington de Queiroz
 
 ---
 
